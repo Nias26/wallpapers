@@ -27,3 +27,8 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Cyn_maid_2.jpg
     - Murder Drones/Machine_Guns.jpg
     - Murder Drones/Tomatoes.jpg
+    - Murder Drones/RailUzi.jpg
+    - Murder Drones/Surprise_attack.jpg
+    - Altro/Life_on_CTR.jpg
+    - ULTRAKILL/Spamton_new_body.jpg
+    - Bakemonogatari/Shinobu_on_bike.jpg
