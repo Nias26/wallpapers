@@ -32,3 +32,15 @@ These wallpapers have to adjust their scale or get blown away
     - Altro/Life_on_CTR.jpg
     - ULTRAKILL/Spamton_new_body.jpg
     - Bakemonogatari/Shinobu_on_bike.jpg
+    - Murder Drones/Singer.jpg
+    - Murder Drones/Cyn_2.jpg
+    - Murder Drones/Smile.jpg
+    - Murder Drones/Violence.jpg
+    - Murder Drones/DD_Cyn.jpg
+    - Murder Drones/Nice_fit.jpg
+    - Murder Drones/Cyn_maid_2.jpg
+    - Murder Drones/Giggle_pat_pat.jpg
+    - Altro/Fountain_off_since_barrier_broke.jpg
+    - Murder Drones/Winnig_team.jpg
+    - Murder Drones/Eldritch_Cyn.jpg
+    - Murder Drones/Cynessa_Portrait.jpg
