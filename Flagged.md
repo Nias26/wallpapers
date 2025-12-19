@@ -2,32 +2,7 @@
 
 These wallpapers have to adjust their scale or get blown away
 
-    - Altro/We_Are_Number_One_Papyrus.jpg
-    - Altro/Dark_Prince_Ralsei.jpg
-    - Altro/Kanagawa_Alt.png
-    - Murder\ Drones/Did_I_do_something_wrong.jpg
-    - Murder\ Drones/Tea_spilling.jpg
-    - Murder\ Drones/Handyrobot.jpg
-    - Murder\ Drones/Mansion_cyn.jpg
-    - Murder\ Drones/Dinosaur.jpg
-    - Murder\ Drones/RailUzi.jpg
-    - Murder\ Drones/Feeling_Cute.jpg
-    - Murder\ Drones/Light_sip.jpg
-    - Murder\ Drones/Madness.jpg
     - ULTRAKILL/V2+.jpg
-    - Murder Drones/Tessa.jpg
-    - Murder Drones/Soviet_eletrician.jpg
-    - Murder Drones/Swing_2.jpg
-    - Murder Drones/Playdoll.jpg
-    - Murder Drones/Cylly_2.jpg
-    - Murder Drones/Cyn.jpg
-    - Murder Drones/Wink.jpg
-    - Altro/Suspicious_Soup.jpeg
-    - Murder Drones/T-Rex_Cynessa_2.jpg
-    - Murder Drones/Cyn_maid_2.jpg
-    - Murder Drones/Machine_Guns.jpg
-    - Murder Drones/Tomatoes.jpg
-    - Murder Drones/RailUzi.jpg
     - Murder Drones/Surprise_attack.jpg
     - Altro/Life_on_CTR.jpg
     - ULTRAKILL/Spamton_new_body.jpg
@@ -44,3 +19,11 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Winnig_team.jpg
     - Murder Drones/Eldritch_Cyn.jpg
     - Murder Drones/Cynessa_Portrait.jpg
+    - Murder Drones/Cyn_7.jpg
+    - Murder Drones/Fat_V_found_her_glasses.jpg
+    - Murder Drones/DD_Tessa.jpg
+    - Murder Drones/Cyn_and_Tessa_Hug.jpg
+    - Bakemonogatari/Disgusted_Shinobu.png
+    - Bakemonogatari/Ononoki_Yotsugi_portrait.jpg
+    - Murder Drones/Tea_time_3.jpg
+    - Altro/Gaster_cake.jpg
