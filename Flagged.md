@@ -28,3 +28,4 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Tea_time_3.jpg
     - Altro/Gaster_cake.jpg
     - Murder Drones/Bathroom_brothership.jpg
+    - Altro/Strongest_Enemy.jpg
