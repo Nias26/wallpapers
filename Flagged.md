@@ -35,3 +35,7 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Hunter.jpg
     - ULTRAKILL/All_Evelators_Leads_To_Fraud.jpg
     - Murder Drones/Me.jpg
+    - Murder Drones/Froggy_Cynessa.jpg
+    - Altro/a_machine_with_a_box_of_brain_inside.png
+    - Murder Drones/Mango_time.jpg
+    - Murder Drones/T-Rex_Cynessa.jpg
