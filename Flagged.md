@@ -33,3 +33,5 @@ These wallpapers have to adjust their scale or get blown away
     - Altro/Strongest_Enemy.jpg
     - Made in Abyss/Ozen_&_Lyza.jpg
     - Murder Drones/Hunter.jpg
+    - ULTRAKILL/All_Evelators_Leads_To_Fraud.jpg
+    - Murder Drones/Me.jpg
