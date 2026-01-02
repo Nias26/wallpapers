@@ -5,3 +5,6 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Cyn_2.jpg
     - Murder Drones/Fatal_Error.jpg
     - Murder Drones/Throne.jpg
+    - ULTRAKILL/V1.jpg
+    - Murder Drones/Ice_cream.jpg
+    - Murder Drones/Looking_at_mirror.jpg
