@@ -12,3 +12,4 @@ These wallpapers have to adjust their scale or get blown away
     - ULTRAKILL/Looking_at_the_sky.jpg
     - FLCL/Mamimi_Dark_Angel.jpg
     - Murder Drones/Throne.jpg
+    - Murder Drones/The_Flesh_Demands_Invitation.jpg
