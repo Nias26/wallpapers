@@ -17,3 +17,6 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Cyn_Chair.jpg
     - ULTRAKILL/Maurice_BLAAAAST.jpg
     - Murder Drones/Cyn_9.jpg
+    - Murder Drones/Multiverse_of_Madness.jpg
+    - ULTRAKILL/TAX_FRAUD.jpg
+    - Murder Drones/Doll_ballin.jpg
