@@ -13,3 +13,7 @@ These wallpapers have to adjust their scale or get blown away
     - FLCL/Mamimi_Dark_Angel.jpg
     - Murder Drones/Throne.jpg
     - Murder Drones/The_Flesh_Demands_Invitation.jpg
+    - ULTRAKILL/All_Elevators_Lead_To_Hell.jpg
+    - Murder Drones/Cyn_Chair.jpg
+    - ULTRAKILL/Maurice_BLAAAAST.jpg
+    - Murder Drones/Cyn_9.jpg
