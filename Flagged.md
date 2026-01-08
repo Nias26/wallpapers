@@ -31,3 +31,6 @@ These wallpapers have to adjust their scale or get blown away
     - ULTRAKILL/V2_J.jpg
     - FLCL/Mamimi_Dark_Angel.jpg
     - Altro/Kris.jpg
+    - Murder Drones/Miku.jpg
+    - Murder Drones/J_shot.jpg
+    - Murder Drones/Cyn_4.jpg
