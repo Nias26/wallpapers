@@ -13,3 +13,11 @@ These wallpapers have to adjust their scale or get blown away
     - ULTRAKILL/Aura_Farming.jpg
     - ULTRAKILL/Hug.jpg
     - FLCL/Overflow.png
+    - Murder Drones/Curoius.jpg
+    - ULTRAKILL/Futaba_and_Sisyphus_Prime.jpg
+    - Murder Drones/Cynessa_8.jpg
+    - Murder Drones/Solver_2.jpg
+    - Murder Drones/Resting_in_pod.png
+    - Murder Drones/T-Rex_Cynessa_2.jpg
+    - Murder Drones/Doll_shot.jpg
+    - ULTRAKILL/Aura_Farming.jpg
