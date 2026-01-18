@@ -17,3 +17,5 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Branded_pens.jpg
     - Altro/Big_ass_hell_scoop_w_quadratic_formula.png
     - Altro/Neru.jpg
+    - Murder Drones/J_blinking.jpg
+    - Murder Drones/Tea_time_2.jpg
