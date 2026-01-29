@@ -27,3 +27,19 @@ These wallpapers have to adjust their scale or get blown away
     - ULTRAKILL/Vion_and_N1K0.jpg
     - Altro/Big_ass_hell_scoop_w_quadratic_formula.png
     - Altro/Neru.jpg
+    - Murder Drones/Mannor_Cyn_Massacre.jpg
+    - Murder Drones/Branded_pens.jpg
+    - Altro/Chaos_5.jpg
+    - Murder Drones/Whitch.jpg
+    - Murder Drones/Cynessa_2.jpg
+    - ULTRAKILL/Kill.jpg
+    - Murder Drones/Crazy_Cynessa.jpg
+    - Murder Drones/DD_Cyn_2.jpg
+    - Murder Drones/Maid_Doll_and_Lizzy.jpg
+    - Murder Drones/Corruption.jpg
+    - Murder Drones/Ballin.jpg
+    - Murder Drones/Eldritch_Cyn_2.jpg
+    - FLCL/Mamimi_and_Naota.jpg
+    - FLCL/Atomks_and_Mamimi.jpg
+    - Murder Drones/Chicken_Head.jpg
+    - Altro/a_machine_with_a_box_of_brain_inside.png
