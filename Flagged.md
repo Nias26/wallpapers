@@ -43,3 +43,4 @@ These wallpapers have to adjust their scale or get blown away
     - FLCL/Atomks_and_Mamimi.jpg
     - Murder Drones/Chicken_Head.jpg
     - Altro/a_machine_with_a_box_of_brain_inside.png
+    - Murder Drones/Bartender.jpg
