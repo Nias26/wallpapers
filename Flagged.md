@@ -13,3 +13,8 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Throne_2.jpg
     - Murder Drones/Happy_couple_2.jpg
     - Murder Drones/Glasses_on_Cyn.jpg
+    - Murder Drones/Madness_2.jpg
+    - Murder Drones/Bleh_2.jpg
+    - ULTRAKILL/Smoke_Break.jpg
+    - Murder Drones/Surprise.jpg
+    - Murder Drones/Spotted.jpg
