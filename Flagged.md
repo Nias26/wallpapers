@@ -26,3 +26,5 @@ These wallpapers have to adjust their scale or get blown away
     - ULTRAKILL/Leviathan.jpg
     - ULTRAKILL/Alternative_Reze_Arc.jpg
     - Bakemonogatari/Senjougahara_on_window.jpg
+    - Murder Drones/Uzi_shot.jpg
+    - Murder Drones/Cyn_13.jpg
