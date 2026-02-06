@@ -28,3 +28,8 @@ These wallpapers have to adjust their scale or get blown away
     - Bakemonogatari/Senjougahara_on_window.jpg
     - Murder Drones/Uzi_shot.jpg
     - Murder Drones/Cyn_13.jpg
+    - Murder Drones/Maid_Cyn.jpg
+    - Murder Drones/Cyn_with_a_Sword.jpg
+    - Murder Drones/Youtube_Apology.jpg
+    - ULTRAKILL/Smash.jpg
+    - ULTRAKILL/Smoke_Break.jpg
