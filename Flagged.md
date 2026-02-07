@@ -12,24 +12,25 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Glasses_on_Cyn.jpg
     - Murder Drones/Madness_2.jpg
     - Murder Drones/Bleh_2.jpg
-    - Murder Drones/Glasses_on_Cyn.jpg
     - Murder Drones/Surprise.jpg
     - Murder Drones/Spotted.jpg
     - Murder Drones/Cyn_5.jpg
     - Murder Drones/Nostalgic_Cyn.jpg
     - Murder Drones/Alice_2.jpg
     - Murder Drones/Beware_the_Trex.jpg
-    - Altro/Chaos_6.jpg
-    - Altro/Chaos_3.jpg
-    - Altro/Chaos_2.jpg
-    - ULTRAKILL/Smoke_Break.jpg
-    - ULTRAKILL/Leviathan.jpg
-    - ULTRAKILL/Alternative_Reze_Arc.jpg
-    - Bakemonogatari/Senjougahara_on_window.jpg
     - Murder Drones/Uzi_shot.jpg
     - Murder Drones/Cyn_13.jpg
     - Murder Drones/Maid_Cyn.jpg
     - Murder Drones/Cyn_with_a_Sword.jpg
     - Murder Drones/Youtube_Apology.jpg
+    - Murder Drones/Cute_sweater.jpg
+    - Altro/Chaos_6.jpg
+    - Altro/Chaos_3.jpg
+    - Altro/Chaos_2.jpg
+    - Altro/Papyrus.jpg
+    - ULTRAKILL/Smoke_Break.jpg
+    - ULTRAKILL/Leviathan.jpg
+    - ULTRAKILL/Alternative_Reze_Arc.jpg
     - ULTRAKILL/Smash.jpg
     - ULTRAKILL/Smoke_Break.jpg
+    - Bakemonogatari/Senjougahara_on_window.jpg
