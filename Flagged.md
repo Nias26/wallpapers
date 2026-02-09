@@ -24,6 +24,7 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Cyn_with_a_Sword.jpg
     - Murder Drones/Youtube_Apology.jpg
     - Murder Drones/Cute_sweater.jpg
+    - Murder Drones/Throne_2.jpg
     - Altro/Chaos_6.jpg
     - Altro/Chaos_3.jpg
     - Altro/Chaos_2.jpg
