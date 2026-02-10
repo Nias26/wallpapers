@@ -32,6 +32,8 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Null.jpg
     - Murder Drones/Hi_N.jpg
     - Murder Drones/Cylly_2.jpg
+    - Murder Drones/Whitchcraft.jpg
+    - Murder Drones/Death_Angel.jpg
     - Altro/Chaos_6.jpg
     - Altro/Chaos_3.jpg
     - Altro/Chaos_2.jpg
