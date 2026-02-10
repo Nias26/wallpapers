@@ -25,10 +25,19 @@ These wallpapers have to adjust their scale or get blown away
     - Murder Drones/Youtube_Apology.jpg
     - Murder Drones/Cute_sweater.jpg
     - Murder Drones/Throne_2.jpg
+    - Murder Drones/DD_Cyn_3.jpg
+    - Murder Drones/The_bad_guys.jpg
+    - Murder Drones/Cyn_14.jpg
+    - Murder Drones/Coffee_time_2.jpg
+    - Murder Drones/Null.jpg
+    - Murder Drones/Hi_N.jpg
+    - Murder Drones/Cylly_2.jpg
     - Altro/Chaos_6.jpg
     - Altro/Chaos_3.jpg
     - Altro/Chaos_2.jpg
+    - Altro/Chaos_1.jpg
     - Altro/Papyrus.jpg
+    - Altro/Knight_Of_Despair.jpg
     - ULTRAKILL/Smoke_Break.jpg
     - ULTRAKILL/Leviathan.jpg
     - ULTRAKILL/Alternative_Reze_Arc.jpg
