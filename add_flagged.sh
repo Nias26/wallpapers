@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-query=$(swww query)
+query=$(awww query)
 filepath="${query#*/*/*/*/*/}"
 echo -e "    - $filepath" >> ./Flagged.md
