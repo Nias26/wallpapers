@@ -12,3 +12,5 @@ These wallpapers have to adjust their scale or get blown away
     - all/Murder Drones/Cynessa_15.jpg
     - normal/Altro/Parallax_B.jpg
     - normal/Altro/Parallax_W.jpg
+    - all/Murder Drones/Cynessa_3.jpg
+: HDMI-A-1: 1920x1080, scale: 1, currently displaying: image: /home/Nias/Immagini/Wallpapers/all/Murder Drones/Cynessa_3.jpg
