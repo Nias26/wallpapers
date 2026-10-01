@@ -14,3 +14,6 @@ These wallpapers have to adjust their scale or get blown away
     - normal/Altro/Parallax_W.jpg
     - all/Murder Drones/Cynessa_3.jpg
 : HDMI-A-1: 1920x1080, scale: 1, currently displaying: image: /home/Nias/Immagini/Wallpapers/all/Murder Drones/Cynessa_3.jpg
+    - ULTRAKILL/Knuckleblaster_2.jpg
+    - ULTRAKILL/Idk.jpg
+: HDMI-A-1: 1920x1080, scale: 1, currently displaying: image: /home/Nias/Immagini/Wallpapers/ULTRAKILL/Idk.jpg
