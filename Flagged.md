@@ -2,18 +2,15 @@
 
 These wallpapers have to adjust their scale or get blown away
 
-    - all/Murder Drones/Cynessa_18.jpg
-    - normal/Murder Drones/JJ_Reference.jpg
-    - all/Murder Drones/Cyn_26.jpg
-    - all/Murder Drones/Cynessa_32.jpg
-    - all/Murder Drones/Miku_Cynessa.jpg
-    - normal/Murder Drones/James_Vond.jpg
-    - all/Murder Drones/Cynessa_18.jpg
-    - all/Murder Drones/Cynessa_15.jpg
-    - normal/Altro/Parallax_B.jpg
-    - normal/Altro/Parallax_W.jpg
-    - all/Murder Drones/Cynessa_3.jpg
-: HDMI-A-1: 1920x1080, scale: 1, currently displaying: image: /home/Nias/Immagini/Wallpapers/all/Murder Drones/Cynessa_3.jpg
-    - ULTRAKILL/Knuckleblaster_2.jpg
+    - Altro/Parallax_B.jpg
+    - Altro/Parallax_W.jpg
+    - Murder Drones/Cyn_26.jpg
+    - Murder Drones/Cynessa_15.jpg
+    - Murder Drones/Cynessa_18.jpg
+    - Murder Drones/Cynessa_3.jpg
+    - Murder Drones/Cynessa_32.jpg
+    - Murder Drones/JJ_Reference.jpg
+    - Murder Drones/James_Vond.jpg
+    - Murder Drones/Miku_Cynessa.jpg
     - ULTRAKILL/Idk.jpg
-: HDMI-A-1: 1920x1080, scale: 1, currently displaying: image: /home/Nias/Immagini/Wallpapers/ULTRAKILL/Idk.jpg
+    - ULTRAKILL/Shinji.jpg
